@@ -1,5 +1,4 @@
 defaultNamespace: cattle-gatekeeper-system
-
 helm:
   repo: https://charts.rancher.io
   chart: rancher-gatekeeper
